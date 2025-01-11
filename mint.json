@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/images/deneyaplogo-ligth.svg",
+    "light": "/mages/deneyaplogo-ligth.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -72,6 +72,12 @@
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
+      ]
+    },
+    {
+      "group": "Deneyap Kart",
+      "pages": [
+        "deneyap-kart/deneyapkart1a"
       ]
     },
     {
